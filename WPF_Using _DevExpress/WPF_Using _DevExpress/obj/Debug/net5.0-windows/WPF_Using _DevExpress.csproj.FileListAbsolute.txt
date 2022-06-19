@@ -1,0 +1,106 @@
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.exe
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.dll.config
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.deps.json
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.runtimeconfig.json
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.runtimeconfig.dev.json
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\WPF_Using _DevExpress.pdb
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Data.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Data.Desktop.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Mvvm.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Core.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Printing.v21.2.Core.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Core.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.DXStyle.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.LightGray.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.MetropolisDark.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.MetropolisLight.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2007Black.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2007Blue.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2007Silver.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2010Black.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2010Blue.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2010Silver.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2013.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2013DarkGray.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2013LightGray.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016Black.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016BlackSE.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016Colorful.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016ColorfulSE.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016DarkGraySE.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016White.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2016WhiteSE.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2019Black.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2019DarkGray.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2019HighContrast.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Office2019White.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Seven.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.TouchlineDark.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2010.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2017Blue.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2017Dark.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2017Light.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2019Blue.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2019Dark.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.VS2019Light.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Win10Dark.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\DevExpress.Xpf.Themes.Win10Light.v21.2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\System.ServiceModel.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.csproj.AssemblyReference.cache
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\App.g.cs
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress_MarkupCompile.cache
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.g.resources
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.AssemblyInfoInputs.cache
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.AssemblyInfo.cs
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.csproj.CoreCompileInputs.cache
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.csproj.CopyComplete
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.pdb
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\WPF_Using _DevExpress.genruntimeconfig.cache
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\obj\Debug\net5.0-windows\ref\WPF_Using _DevExpress.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Works\WPF_Using _DevExpress\WPF_Using _DevExpress\bin\Debug\net5.0-windows\ref\WPF_Using _DevExpress.dll
